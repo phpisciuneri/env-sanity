@@ -10,6 +10,7 @@ along with any useful tips I uncovered along the way.
 
 ## Software Packages
 
+* blas
 * boost
 * mpich
 * google test
